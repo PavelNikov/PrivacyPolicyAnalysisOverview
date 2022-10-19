@@ -6,6 +6,7 @@ See [this paper](https://link.springer.com/article/10.1007/s00607-022-01076-3#Se
 ## Main challenges in automated PP analysis
 
 **Segmentation**:
+[ASDUS](https://github.com/abhijith-athreya/ASDUS)
 
 ## Datasets
 - [OPP-115 Corpus](https://usableprivacy.org/data)
