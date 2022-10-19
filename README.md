@@ -1,12 +1,17 @@
 # PrivacyPolicyAnalysisOverview
 
-## Current lines of research
+## Current trends in research
 See [this paper](https://link.springer.com/article/10.1007/s00607-022-01076-3#Sec13) for an overview over some of the lines of research into automated PP analysis as of 2022.
 
-## Main challenges in automated PP analysis
+## Challenges and Techniques
+*What are the main challenges in automated PP analysis? And what are the techniques to overcome them?*
+
+
 
 **Segmentation**:
-[ASDUS](https://github.com/abhijith-athreya/ASDUS)
+*Challenge: Split the pp into subparts called segments. Often to identify paragraphs.*
+*Techniques*:
+- [ASDUS](https://github.com/abhijith-athreya/ASDUS)
 
 ## Datasets
 - [OPP-115 Corpus](https://usableprivacy.org/data)
