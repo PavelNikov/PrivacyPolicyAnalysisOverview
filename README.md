@@ -1,5 +1,7 @@
 # PrivacyPolicyAnalysisOverview
 
+This repo aims to give an overview over the field of automated privacy policy (PP) analysis, i.e., the current lines of research, the commonly faced challenges and their respective solutions and the datasets.
+
 ## Current trends in research
 See [this paper](https://link.springer.com/article/10.1007/s00607-022-01076-3#Sec13) for an overview over some of the lines of research into automated PP analysis as of 2022.
 
@@ -7,10 +9,11 @@ See [this paper](https://link.springer.com/article/10.1007/s00607-022-01076-3#Se
 *What are the main challenges in automated PP analysis? And what are the techniques to overcome them?*
 
 
-
 **Segmentation**:
-*Challenge: Split the pp into subparts called segments. Often to identify paragraphs.*
-*Techniques*:
+
+Challenge: Split the PP into subparts called segments. Often to identify paragraphs.
+
+Techniques:
 - [ASDUS](https://github.com/abhijith-athreya/ASDUS)
 
 ## Datasets
